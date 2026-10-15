@@ -14,8 +14,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<img width="1086" height="739" alt="Снимок экрана 2026-10-06 в 16 29 21" src="https://github.com/user-attachments/assets/1f33eac6-67c9-4c85-be75-24b0c6c40fe3" />
-
 </div>
 
 <br />
